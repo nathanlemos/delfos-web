@@ -5,7 +5,7 @@ import { Carousel, Slide, Navigation } from "vue3-carousel";
 
 const items = ref([
   {
-    image: "/img/carousel-1.jpg",
+    image: "@img/carousel-1.jpg",
     alt: "img1",
     title: "Best Online Courses",
     heading: "The Best Online Learning Platform",
@@ -15,7 +15,7 @@ const items = ref([
     joinNowLink: "",
   },
   {
-    image: "/img/carousel-2.jpg",
+    image: "@img/carousel-2.jpg",
     alt: "img2",
     title: "Best Online Courses",
     heading: "Get Educated Online From Your Home",
