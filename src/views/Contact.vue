@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import Hero from "../components/Hero.vue";
-import ContactForm from "../components/ContactForm.vue";
+import Hero from "@/components/Hero.vue";
+import ContactForm from "@/components/ContactForm.vue";
 </script>
 
 <template>

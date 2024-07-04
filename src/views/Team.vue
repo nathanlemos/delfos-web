@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import Hero from "../components/Hero.vue";
-import Team from "../components/Team.vue";
+import Hero from "@/components/Hero.vue";
+import Team from "@/components/Team.vue";
 </script>
 
 <template>

@@ -1,8 +1,3 @@
-<script setup>
-import { useRouter } from "vue-router";
-
-const router = useRouter();
-</script>
 <template>
   <nav
     class="navbar navbar-expand-lg bg-white navbar-light shadow sticky-top p-0"

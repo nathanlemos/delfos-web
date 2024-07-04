@@ -1,11 +1,3 @@
-<script setup>
-const props = defineProps({
-  title: {
-    type: String,
-    default: null,
-  },
-});
-</script>
 <template>
   <div class="container-fluid bg-primary py-5 mb-5 page-header">
     <div class="container py-5">
@@ -27,3 +19,11 @@ const props = defineProps({
     </div>
   </div>
 </template>
+<script setup lang="ts">
+defineProps({
+  title: {
+    type: String,
+    default: null,
+  },
+});
+</script>
