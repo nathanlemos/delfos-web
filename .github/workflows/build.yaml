@@ -13,6 +13,11 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
+      - name: Set up Git
+        run: |
+          git config --global user.name "Nathan Reis"
+          git config --global user.email "nathanlemos.ec@gmail.com"
+
       - name: Install dependencies
         run: yarn install
 
