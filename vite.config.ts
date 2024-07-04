@@ -6,6 +6,7 @@ import vue from '@vitejs/plugin-vue';
 // https://vitejs.dev/config/
 export default defineConfig(() => {
     return {
+        base: "/delfos-web/",
         plugins: [vue()],
         resolve: {
             alias: {
