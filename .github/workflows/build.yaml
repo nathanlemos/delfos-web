@@ -13,20 +13,15 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Set up Git
-        run: |
-          git config --global user.name "Nathan Reis"
-          git config --global user.email "nathanlemos.ec@gmail.com"
-
       - name: Install dependencies
         run: yarn install
 
       - name: Build project
-        run: yarn run deploy
+        run: yarn build
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GHA_TOKEN }}
-          publish_dir: ./dist #
+          publish_dir: ./dist # ajuste isso para o diretório onde o build é gerado
           publish_branch: build
