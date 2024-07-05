@@ -9,7 +9,7 @@ const getImagePath = (imageName: string) => {
   if (imageName.startsWith("http") || imageName.startsWith(base)) {
     return imageName;
   }
-  return `${base}img/${imageName}`;
+  return `${base}/${imageName}`;
 };
 
 const items = ref([
