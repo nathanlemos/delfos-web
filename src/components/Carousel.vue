@@ -5,7 +5,8 @@ import { Carousel, Slide, Navigation } from "vue3-carousel";
 const base = import.meta.env.BASE_URL;
 
 const getImagePath = (imageName: string) => {
-  if (imageName.startsWith("http") || imageName.startsWith("/")) {
+  console.log("Base", base);
+  if (imageName.startsWith("http") || imageName.startsWith(base)) {
     return imageName;
   }
   return `${base}img/${imageName}`;
