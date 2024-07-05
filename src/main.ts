@@ -3,9 +3,10 @@ import { createRouter, createWebHistory } from 'vue-router';
 import './style.css'
 import App from './App.vue'
 
+const base_url = import.meta.env.BASE_URL
 
 const router = createRouter({
-    history: createWebHistory(),
+    history: createWebHistory(base_url),
     routes: [
       { path: '/', name: 'Home', component: () => import('./views/Home.vue') },
       { path: '/about', name: 'About', component: () => import('./views/About.vue') },
