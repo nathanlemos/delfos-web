@@ -123,4 +123,18 @@ const responsiveOptions = ref({
 .carousel__next {
   color: white;
 }
+
+@media (max-width: 768px) {
+  .owl-carousel-item {
+    position: relative;
+    min-height: 500px;
+  }
+
+  .owl-carousel-item img {
+    position: absolute;
+    width: 100%;
+    height: 100% !important;
+    object-fit: cover;
+  }
+}
 </style>

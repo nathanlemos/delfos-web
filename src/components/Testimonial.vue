@@ -10,7 +10,7 @@
       <carousel
         class="testimonial-carousel"
         :wrapAround="true"
-        :itemsToShow="3"
+        :breakpoints="carouselBreakpoints"
       >
         <slide v-for="(testimonial, index) in testimonials" :key="index">
           <div class="testimonial-item text-center">
@@ -38,6 +38,18 @@
 import { ref } from "vue";
 import { Carousel, Slide, Navigation } from "vue3-carousel";
 const base = import.meta.env.BASE_URL;
+
+const carouselBreakpoints = {
+  1200: {
+    itemsToShow: 3,
+  },
+  800: {
+    itemsToShow: 2,
+  },
+  600: {
+    itemsToShow: 1,
+  },
+};
 
 const getImagePath = (imageName: string) => {
   console.log("Base", base);
