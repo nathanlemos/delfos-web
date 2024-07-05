@@ -1,0 +1,1 @@
+import{_ as o}from"./Hero.vue_vue_type_script_setup_true_lang-B3mBN-aL.js";import{T as t}from"./Testimonial-CmJUV80N.js";import{d as a,c as s,a as e,F as n,o as m}from"./index-DR-MaVBF.js";const f=a({__name:"Testimonials",setup(r){return(i,c)=>(m(),s(n,null,[e(o,{title:"Depoimentos"}),e(t)],64))}});export{f as default};
