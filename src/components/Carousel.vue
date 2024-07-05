@@ -5,7 +5,7 @@ import { Carousel, Slide, Navigation } from "vue3-carousel";
 
 const items = ref([
   {
-    image: "@img/carousel-1.jpg",
+    image: "/img/carousel-1.jpg",
     alt: "img1",
     title: "Best Online Courses",
     heading: "The Best Online Learning Platform",
@@ -15,7 +15,7 @@ const items = ref([
     joinNowLink: "",
   },
   {
-    image: "@img/carousel-2.jpg",
+    image: "/img/carousel-2.jpg",
     alt: "img2",
     title: "Best Online Courses",
     heading: "Get Educated Online From Your Home",
@@ -64,7 +64,12 @@ const responsiveOptions = ref({
           v-for="(item, index) in items"
           :key="index"
         >
-          <img class="img-fluid" :src="item.image" :alt="item.alt" />
+          <img
+            crossorigin="anonymous"
+            class="img-fluid"
+            :src="item.image"
+            :alt="item.alt"
+          />
           <div
             class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center"
             style="background: rgba(24, 29, 56, 0.7)"

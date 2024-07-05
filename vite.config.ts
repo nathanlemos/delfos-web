@@ -4,9 +4,9 @@ import { defineConfig } from 'vite';
 import vue from '@vitejs/plugin-vue';
 
 // https://vitejs.dev/config/
-export default defineConfig(() => {
+export default defineConfig(({mode}) => {
     return {
-        base: "/delfos-web/",
+        base:  mode === 'production' ? "delfos-web" : "/",
         plugins: [vue(),
         {
             name: "configure-response-headers",
