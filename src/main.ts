@@ -4,7 +4,6 @@ import './style.css'
 import App from './App.vue'
 
 const base_url = import.meta.env.BASE_URL
-
 const router = createRouter({
     history: createWebHistory(base_url),
     routes: [
