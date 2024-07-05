@@ -37,30 +37,39 @@
 <script setup lang="ts">
 import { ref } from "vue";
 import { Carousel, Slide, Navigation } from "vue3-carousel";
+const base = import.meta.env.BASE_URL;
+
+const getImagePath = (imageName: string) => {
+  console.log("Base", base);
+  if (imageName.startsWith("http") || imageName.startsWith(base)) {
+    return imageName;
+  }
+  return `${base}/${imageName}`;
+};
 
 const testimonials = ref([
   {
     clientName: "Client Name 1",
     profession: "Profession 1",
-    image: "/img/testimonial-1.jpg",
+    image: getImagePath("/img/testimonial-1.jpg"),
     text: "Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.",
   },
   {
     clientName: "Client Name 2",
     profession: "Profession 2",
-    image: "/img/testimonial-2.jpg",
+    image: getImagePath("/img/testimonial-2.jpg"),
     text: "Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.",
   },
   {
     clientName: "Client Name 3",
     profession: "Profession 3",
-    image: "/img/testimonial-3.jpg",
+    image: getImagePath("/img/testimonial-3.jpg"),
     text: "Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.",
   },
   {
     clientName: "Client Name 4",
     profession: "Profession 4",
-    image: "/img/testimonial-4.jpg",
+    image: getImagePath("/img/testimonial-4.jpg"),
     text: "Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.",
   },
 ]);
