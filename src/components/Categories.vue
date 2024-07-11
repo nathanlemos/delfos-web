@@ -3,9 +3,9 @@
     <div class="container">
       <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
         <h6 class="section-title bg-white text-center text-primary px-3">
-          Categories
+          Áreas de conhecimento
         </h6>
-        <h1 class="mb-5">Courses Categories</h1>
+        <h1 class="mb-5">Aprenda sobre o que você ama!</h1>
       </div>
       <div class="row g-3">
         <div class="col-lg-7 col-md-6">
@@ -17,8 +17,8 @@
                   class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3"
                   style="margin: 1px"
                 >
-                  <h5 class="m-0">Web Design</h5>
-                  <small class="text-primary">49 Courses</small>
+                  <h5 class="m-0">Educação</h5>
+                  <small class="text-primary">49 Cursos</small>
                 </div>
               </a>
             </div>
@@ -29,8 +29,8 @@
                   class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3"
                   style="margin: 1px"
                 >
-                  <h5 class="m-0">Graphic Design</h5>
-                  <small class="text-primary">49 Courses</small>
+                  <h5 class="m-0">Nutrição</h5>
+                  <small class="text-primary">49 Cursos</small>
                 </div>
               </a>
             </div>
@@ -41,8 +41,8 @@
                   class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3"
                   style="margin: 1px"
                 >
-                  <h5 class="m-0">Video Editing</h5>
-                  <small class="text-primary">49 Courses</small>
+                  <h5 class="m-0">Gestão/MBA</h5>
+                  <small class="text-primary">49 Cursos</small>
                 </div>
               </a>
             </div>
@@ -64,8 +64,8 @@
               class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3"
               style="margin: 1px"
             >
-              <h5 class="m-0">Online Marketing</h5>
-              <small class="text-primary">49 Courses</small>
+              <h5 class="m-0">Saúde</h5>
+              <small class="text-primary">49 Cursos</small>
             </div>
           </a>
         </div>

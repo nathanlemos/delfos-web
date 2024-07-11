@@ -14,22 +14,22 @@ const getImagePath = (imageName: string) => {
 
 const items = ref([
   {
-    image: getImagePath("/img/carousel-1.jpg"),
+    image: getImagePath("/img/slide_ed_fisica.jpg"),
     alt: "img1",
-    title: "Best Online Courses",
-    heading: "The Best Online Learning Platform",
+    title: "Transforme vidas através da educação física!",
+    heading: "DOCÊNCIA EM EDUCAÇÃO FÍSICA",
     description:
-      "Vero elitr justo clita lorem. Ipsum dolor at sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea sanctus eirmod elitr.",
+      "Prepare-se para inspirar e formar a próxima geração de profissionais de educação física. Aprenda as melhores práticas pedagógicas, técnicas de ensino e desenvolvimento de currículo para criar aulas envolventes e eficazes.",
     readMoreLink: "",
     joinNowLink: "",
   },
   {
-    image: getImagePath("/img/carousel-2.jpg"),
+    image: getImagePath("/img/slide_nutricao_esporte.jpg"),
     alt: "img2",
-    title: "Best Online Courses",
-    heading: "Get Educated Online From Your Home",
+    title: "Maximize o potencial dos atletas com a nutrição certa!",
+    heading: "NUTRIÇÃO APLICADA AO ESPORTE",
     description:
-      "Vero elitr justo clita lorem. Ipsum dolor at sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea sanctus eirmod elitr.",
+      "Descubra como a nutrição pode potencializar o desempenho esportivo e promover a saúde dos atletas. Nosso curso oferece conhecimentos essenciais para personalizar dietas e otimizar resultados, com foco em estratégias nutricionais baseadas em evidências científicas.",
     readMoreLink: "",
     joinNowLink: "",
   },
@@ -95,12 +95,12 @@ const responsiveOptions = ref({
                   <a
                     :href="item.readMoreLink"
                     class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft"
-                    >Read More</a
+                    >Quero me inscrever</a
                   >
                   <a
                     :href="item.joinNowLink"
                     class="btn btn-light py-md-3 px-md-5 animated slideInRight"
-                    >Join Now</a
+                    >Me conte mais</a
                   >
                 </div>
               </div>

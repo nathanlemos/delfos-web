@@ -3,9 +3,9 @@
     <div class="container">
       <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
         <h6 class="section-title bg-white text-center text-primary px-3">
-          Instructors
+          Nosso time
         </h6>
-        <h1 class="mb-5">Expert Instructors</h1>
+        <h1 class="mb-5">Quem Faz a Diferença</h1>
       </div>
       <div class="row g-4">
         <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -30,8 +30,8 @@
               </div>
             </div>
             <div class="text-center p-4">
-              <h5 class="mb-0">Instructor Name</h5>
-              <small>Designation</small>
+              <h5 class="mb-0">Fulano da Silva</h5>
+              <small>Saúde</small>
             </div>
           </div>
         </div>
@@ -57,8 +57,8 @@
               </div>
             </div>
             <div class="text-center p-4">
-              <h5 class="mb-0">Instructor Name</h5>
-              <small>Designation</small>
+              <h5 class="mb-0">Fulano da Silva</h5>
+              <small>Saúde</small>
             </div>
           </div>
         </div>
@@ -84,8 +84,8 @@
               </div>
             </div>
             <div class="text-center p-4">
-              <h5 class="mb-0">Instructor Name</h5>
-              <small>Designation</small>
+              <h5 class="mb-0">Fulano da Silva</h5>
+              <small>Saúde</small>
             </div>
           </div>
         </div>
@@ -111,8 +111,8 @@
               </div>
             </div>
             <div class="text-center p-4">
-              <h5 class="mb-0">Instructor Name</h5>
-              <small>Designation</small>
+              <h5 class="mb-0">Fulano da Silva</h5>
+              <small>Saúde</small>
             </div>
           </div>
         </div>

@@ -18,57 +18,61 @@
         </div>
         <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
           <h6 class="section-title bg-white text-start text-primary pe-3">
-            About Us
+            Quem somos
           </h6>
-          <h1 class="mb-4">Welcome to eLEARNING</h1>
+          <h1 class="mb-4">Vem pra Delfos</h1>
           <p class="mb-4">
-            Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-            diam amet diam et eos. Clita erat ipsum et lorem et sit.
+            Seja bem-vindo à Delfos Educacional, onde a pós-graduação EAD é
+            feita sob medida para você! Somos especialistas em saúde, educação e
+            administração, e nosso objetivo é proporcionar uma experiência de
+            aprendizado flexível e dinâmica. Com a Delfos, você pode estudar no
+            seu tempo e no seu ritmo, sem comprometer sua rotina.
           </p>
           <p class="mb-4">
-            Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-            diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet
-            lorem sit clita duo justo magna dolore erat amet
+            Aqui, você encontrará professores que são feras nas suas áreas e que
+            trazem para a sala de aula toda a experiência prática que têm. Nossa
+            plataforma online é super fácil de usar e cheia de recursos legais,
+            como tutoria personalizada e uma biblioteca digital gigante. Na
+            Delfos Educacional, você vai se sentir em casa e encontrar tudo o
+            que precisa para dar aquele up na sua carreira.
           </p>
           <div class="row gy-2 gx-4 mb-4">
             <div class="col-sm-6">
               <p class="mb-0">
-                <i class="fa fa-arrow-right text-primary me-2"></i>Skilled
-                Instructors
+                <i class="fa fa-arrow-right text-primary me-2"></i>Flexibilidade
               </p>
             </div>
             <div class="col-sm-6">
               <p class="mb-0">
-                <i class="fa fa-arrow-right text-primary me-2"></i>Online
-                Classes
+                <i class="fa fa-arrow-right text-primary me-2"></i>Inovação
               </p>
             </div>
             <div class="col-sm-6">
               <p class="mb-0">
-                <i class="fa fa-arrow-right text-primary me-2"></i>International
-                Certificate
+                <i class="fa fa-arrow-right text-primary me-2"></i>Metodologias
+                Avançadas
               </p>
             </div>
             <div class="col-sm-6">
               <p class="mb-0">
-                <i class="fa fa-arrow-right text-primary me-2"></i>Skilled
-                Instructors
+                <i class="fa fa-arrow-right text-primary me-2"></i>Corpo Docente
+                Qualificado
               </p>
             </div>
             <div class="col-sm-6">
               <p class="mb-0">
-                <i class="fa fa-arrow-right text-primary me-2"></i>Online
-                Classes
+                <i class="fa fa-arrow-right text-primary me-2"></i>Suporte ao
+                Estudante
               </p>
             </div>
             <div class="col-sm-6">
               <p class="mb-0">
-                <i class="fa fa-arrow-right text-primary me-2"></i>International
-                Certificate
+                <i class="fa fa-arrow-right text-primary me-2"></i>Certificados
+                Aprovados pelo MEC
               </p>
             </div>
           </div>
-          <a class="btn btn-primary py-3 px-5 mt-2" href="">Read More</a>
+          <a class="btn btn-primary py-3 px-5 mt-2" href="">Saiba mais</a>
         </div>
       </div>
     </div>

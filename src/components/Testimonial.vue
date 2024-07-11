@@ -3,9 +3,9 @@
     <div class="container">
       <div class="text-center">
         <h6 class="section-title bg-white text-center text-primary px-3">
-          Testimonial
+          Depoimentos
         </h6>
-        <h1 class="mb-5">Our Students Say!</h1>
+        <h1 class="mb-5">Histórias dos Nossos Alunos</h1>
       </div>
       <carousel
         class="testimonial-carousel"
@@ -61,28 +61,28 @@ const getImagePath = (imageName: string) => {
 
 const testimonials = ref([
   {
-    clientName: "Client Name 1",
-    profession: "Profession 1",
+    clientName: "Aluno da Costa 1",
+    profession: "Enfermeiro 1",
     image: getImagePath("/img/testimonial-1.jpg"),
-    text: "Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.",
+    text: "Os cursos aqui são realmente práticos e aplicáveis no dia a dia. Estou muito satisfeito com o aprendizado e suporte oferecido!",
   },
   {
-    clientName: "Client Name 2",
-    profession: "Profession 2",
+    clientName: "Aluno da Costa 2",
+    profession: "Enfermeiro 2",
     image: getImagePath("/img/testimonial-2.jpg"),
-    text: "Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.",
+    text: "Os professores são muito qualificados e acessíveis. Aprendi muito e me sinto preparado para minha carreira graças aos cursos daqui.",
   },
   {
-    clientName: "Client Name 3",
-    profession: "Profession 3",
+    clientName: "Aluno da Costa 3",
+    profession: "Enfermeiro 3",
     image: getImagePath("/img/testimonial-3.jpg"),
-    text: "Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.",
+    text: "A plataforma é fácil de usar e os materiais são excelentes. Com certeza recomendaria para quem busca aprender de forma eficiente e flexível.",
   },
   {
-    clientName: "Client Name 4",
-    profession: "Profession 4",
+    clientName: "Aluno da Costa 4",
+    profession: "Enfermeiro 4",
     image: getImagePath("/img/testimonial-4.jpg"),
-    text: "Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.",
+    text: "O suporte ao aluno é excepcional. Sempre que precisei, fui prontamente atendido. Uma experiência de aprendizado realmente enriquecedora.",
   },
 ]);
 </script>
