@@ -13,7 +13,7 @@
         :breakpoints="carouselBreakpoints"
       >
         <slide v-for="(testimonial, index) in testimonials" :key="index">
-          <div class="testimonial-item text-center">
+          <div class="testimonial-item text-center mx-3">
             <img
               class="border rounded-circle p-2 mx-auto mb-3"
               :src="testimonial.image"

@@ -16,7 +16,7 @@ const items = ref([
   {
     image: getImagePath("/img/slide_ed_fisica.jpg"),
     alt: "img1",
-    title: "Transforme vidas através da educação física!",
+    title: "Transforme vidas através da educação física",
     heading: "DOCÊNCIA EM EDUCAÇÃO FÍSICA",
     description:
       "Prepare-se para inspirar e formar a próxima geração de profissionais de educação física. Aprenda as melhores práticas pedagógicas, técnicas de ensino e desenvolvimento de currículo para criar aulas envolventes e eficazes.",
@@ -26,7 +26,7 @@ const items = ref([
   {
     image: getImagePath("/img/slide_nutricao_esporte.jpg"),
     alt: "img2",
-    title: "Maximize o potencial dos atletas com a nutrição certa!",
+    title: "Maximize o potencial dos atletas com a nutrição certa",
     heading: "NUTRIÇÃO APLICADA AO ESPORTE",
     description:
       "Descubra como a nutrição pode potencializar o desempenho esportivo e promover a saúde dos atletas. Nosso curso oferece conhecimentos essenciais para personalizar dietas e otimizar resultados, com foco em estratégias nutricionais baseadas em evidências científicas.",
