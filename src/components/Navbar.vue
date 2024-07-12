@@ -55,7 +55,7 @@
       </div>
       <router-link to="/about"
         ><span class="btn btn-primary py-4 px-lg-5 d-none d-lg-block"
-          >Ambiente virtual<i class="fa fa-arrow-right ms-3"></i></span
+          >ACESSAR AVA<i class="fa fa-arrow-right ms-3"></i></span
       ></router-link>
     </div>
   </nav>
