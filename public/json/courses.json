@@ -5,10 +5,11 @@
     "url": "https://institutopasso1.com.br/cursos-educacao/",
     "courses": [
       {
+        "slug": "alfabetizacao-e-letramento-2",
+        "image": "/img/course-3.jpg",
         "title": "Alfabetização e Letramento",
         "description:": "Profissionais atuarem como facilitadores no processo de aquisição da linguagem escrita, desenvolvendo habilidades para o planejamento, organização e mediação pedagógica.",
         "target": "O curso se destina aos profissionais graduados em Pedagogia, Psicologia, Fonoaudiologia, profissionais da educação e áreas afins, assim como em diferentes especialidades, interessados na temática do curso.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -17,10 +18,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Alfabetizacao-e-Letramento-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -42,18 +39,15 @@
         ]
       },
       {
+        "slug": "alfabetizacao-letramento-e-educacao-infantil",
+        "image": "/img/course-3.jpg",
         "title": "Alfabetização, Letramento e Educação Infantil",
         "description:": "O especialista egresso do curso de pós-graduação lato sensu estará apto para atuar em escolas infantis, centros educacionais, creches, escolas e classes de alfabetização, bem como atuar como alfabetizador/tutor de maneira autônoma (profissional liberal).",
         "target": "Pedagogos, professores da educação infantil e fundamental I, Psicopedagogos, Neuropedagogos, Neuropsicopedagogos, Psicomotricistas, Professores que atuam na educação especial e AEE, Coordenadores, Gestores escolares, e demais profissionais ligados à prática docente na Educação.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Alfabetizacao-Letramento-e-Educacao-Infantil-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -70,10 +64,11 @@
         ]
       },
       {
+        "slug": "atendimento-educacional-especializado",
+        "image": "/img/course-3.jpg",
         "title": "Atendimento Educacional Especializado",
         "description:": "Promover um aperfeiçoamento das técnicas e práticas do Atendimento Educacional Especializado, no que se refere à compreensão da importância da complementação do ensino do aluno, através de atividades pedagógicas e recursos relativos à acessibilidade, viabilizando sua autonomia dentro do ambiente escolar.",
         "target": "Profissionais da área da educação e afins que desejam atuar na identificação das necessidades educacionais específicas dos alunos, definição dos recursos necessários e das atividades a serem desenvolvidas; elaborar cronograma de atendimento aos alunos; apoiar as atividades de alimentação, higiene e locomoção. Promover articulação entre professores do AEE e os do ensino comum.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -82,10 +77,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Atendimento-Educacional-Especializado-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -107,10 +98,11 @@
         ]
       },
       {
+        "slug": "ciencias-da-religiao",
+        "image": "/img/course-3.jpg",
         "title": "Ciências da Religião",
         "description:": "Desenvolver competências e habilidades para a formação de profissionais qualificados na área de Teologia. Práticas educativas para lecionar nesse ramo; Compreender em profundidade as religiões existentes no mundo; Estudar o sistema de crenças e práticas sociais, como filosofias de pensadores, doutrinas e códigos;",
         "target": "Pessoas com nível de escolaridade superior, como professores, pedagogos e demais profissionais interessados em especializar-se no curso de Ciências da Religião.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -119,10 +111,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Ciencias-da-Religiao-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -144,18 +132,15 @@
         ]
       },
       {
+        "slug": "docencia-em-educacao-fisica",
+        "image": "/img/course-3.jpg",
         "title": "Docência em Educação Física",
         "description:": "O profissional desta área atuará como Professor em instituições de ensino públicas e privadas de pequeno, médio e grande porte. Poderá trabalhar também no desenvolvimento de projetos e em equipes multidisciplinares.",
         "target": "Graduados na área da Educação Física e demais profissionais que desejam adquirir conhecimento sobre a Docência no Ensino de Educação Física.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Docencia-em-Educacao-Fisica-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -172,18 +157,15 @@
         ]
       },
       {
+        "slug": "docencia-em-lingua-portuguesa",
+        "image": "/img/course-3.jpg",
         "title": "Docência em Língua Portuguesa",
         "description:": "O profissional desta área atuará como Professor em instituições de ensino públicas e privadas de pequeno, médio e grande porte. Poderá trabalhar também no desenvolvimento de projetos e em equipes multidisciplinares.",
         "target": "Graduados na área de Letras e demais profissionais que desejam adquirir conhecimento sobre a Docência em Língua Portuguesa.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Docencia-em-Lingua-Portuguesa-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -200,10 +182,11 @@
         ]
       },
       {
+        "slug": "docencia-nos-ensinos-tecnico-medio-e-superior",
+        "image": "/img/course-3.jpg",
         "title": "Docência nos Ensinos Técnico, Médio e Superior",
         "description:": "O curso visa a profissionalização do educador, a apropriação das competências e conhecimentos necessários ao exercício da ação docente; ao desenvolvimento de atitudes de reflexão e análise da atuação pedagógica, ao desenvolvimento de valores para bem atuar na sociedade como agente de transformação.",
         "target": "Profissionais graduados na área da educação com interesse na temática. O especialista formado em Docência nos Ensinos Médio, Técnico e Superior pode atuar como docente nos três níveis de ensino: Médio, Técnico e Superior, dedicando-se à matéria de conhecimento de acordo com sua graduação.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -212,10 +195,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Docencia-nos-Ensinos-Medio-Tecnico-e-Superior-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -237,18 +216,15 @@
         ]
       },
       {
+        "slug": "educacao-digital",
+        "image": "/img/course-3.jpg",
         "title": "Educação Digital",
         "description:": "O profissional desta área atuará em escolas, hospitais e clínicas, com crianças, jovens, adultos e idosos no ensino básico, fundamental ou médio. Além disso, pode atuar em instituições privadas ou na rede pública. Poderá trabalhar também no desenvolvimento de projetos e em equipes multidisciplinares.",
         "target": "Graduados nas áreas da Educação Básica e nas áreas de: Assistência Social, Psicopedagogia, Fonoaudiologia, Educação Física, Pedagogia, Psicologia e áreas afins, além de demais profissionais ligados à prática docente na Educação.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Educacao-Digital-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -265,18 +241,15 @@
         ]
       },
       {
+        "slug": "educacao-especializado-e-atendimento-educacional-especializado",
+        "image": "/img/course-3.jpg",
         "title": "Educação Especial e Atendimento Educacional Especializado",
         "description:": "O profissional desta área atua na promoção de atividades educativas com crianças e adolescentes que apresentam algum tipo de necessidade especial. Pode atuar nas áreas da educação e da saúde, em clínicas, escolas, instituições ligadas à educação e em equipes multidisciplinares.",
         "target": "Pedagogos, Professores, demais profissionais do quadro do magistério e profissionais de áreas afins de demais profissionais ligados à prática docente na Educação.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Educacao-Especial-e-Atendimento-Educacional-Especializado-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -293,10 +266,11 @@
         ]
       },
       {
+        "slug": "educacao-especial-inclusiva",
+        "image": "/img/course-3.jpg",
         "title": "Educação Especial Inclusiva",
         "description:": "Propiciar aos alunos atualização e aprofundamento de conteúdos relacionados à educação de alunos portadores de necessidades especiais visando uma nova política de atuação e inclusão destas pessoas à sociedade em que estão inseridas.",
         "target": "Pedagogos, Professores, demais profissionais do quadro do magistério e profissionais de áreas afins ligados à prática da Educação. Pode atuar nas áreas da educação e da saúde, em clínicas, escolas, instituições ligadas à educação e em equipes multidisciplinares.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -305,10 +279,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Educacao-Especial-Inclusiva-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -330,10 +300,11 @@
         ]
       },
       {
+        "slug": "educacao-especial-inclusiva",
+        "image": "/img/course-3.jpg",
         "title": "Educação Especial Inclusiva",
         "description:": "Propiciar aos alunos atualização e aprofundamento de conteúdos relacionados à educação de alunos portadores de necessidades especiais visando uma nova política de atuação e inclusão destas pessoas à sociedade em que estão inseridas.",
         "target": "Pedagogos, Professores, demais profissionais do quadro do magistério e profissionais de áreas afins ligados à prática da Educação. Pode atuar nas áreas da educação e da saúde, em clínicas, escolas, instituições ligadas à educação e em equipes multidisciplinares.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -342,10 +313,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Educacao-Especial-Inclusiva-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -367,10 +334,11 @@
         ]
       },
       {
+        "slug": "educacao-especial-inclusiva",
+        "image": "/img/course-3.jpg",
         "title": "Educação Especial Inclusiva",
         "description:": "Propiciar aos alunos atualização e aprofundamento de conteúdos relacionados à educação de alunos portadores de necessidades especiais visando uma nova política de atuação e inclusão destas pessoas à sociedade em que estão inseridas.",
         "target": "Pedagogos, Professores, demais profissionais do quadro do magistério e profissionais de áreas afins ligados à prática da Educação. Pode atuar nas áreas da educação e da saúde, em clínicas, escolas, instituições ligadas à educação e em equipes multidisciplinares.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -379,10 +347,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Educacao-Especial-Inclusiva-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -404,10 +368,11 @@
         ]
       },
       {
+        "slug": "educacao-infantil",
+        "image": "/img/course-3.jpg",
         "title": "Educação Infantil ",
         "description:": "Propiciar aos estudantes atualização e aprofundamento de conteúdos relacionados ao processo de ensino e aprendizagem na educação infantil, bem como aspectos relacionados à gestão, currículo, projetos pedagógicos, arte e ludicidade na educação.",
         "target": "Graduados nas áreas da Educação Básica e nas áreas de: Assistência Social, Psicopedagogia, Fonoaudiologia, Educação Física, Pedagogia, Psicologia e áreas afins, além de demais profissionais ligados à prática docente na Educação.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -416,10 +381,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Educacao-Infantil-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -441,10 +402,11 @@
         ]
       },
       {
+        "slug": "educacao-psicomotora",
+        "image": "/img/course-3.jpg",
         "title": "Educação Psicomotora",
         "description:": "O profissional desta área atuará em escolas, hospitais e clínicas, com crianças, jovens, adultos e idosos no ensino básico, fundamental ou médio. Além disso, pode atuar em instituições privadas ou na rede pública. Poderá trabalhar também no desenvolvimento de projetos em equipes multidisciplinares.",
         "target": "Graduados nas áreas da Educação Básica e nas áreas de: Assistência Social, Psicopedagogia, Fonoaudiologia, Educação Física, Pedagogia, Psicologia e áreas afins, além de demais profissionais ligados à prática docente na Educação.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -453,10 +415,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Educacao-Psicomotora-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -478,18 +436,15 @@
         ]
       },
       {
+        "slug": "ensino-religioso",
+        "image": "/img/course-3.jpg",
         "title": "Ensino Religioso",
         "description:": "O profissional desta área atuará em Instituições públicas ou privadas de Educação Básica, ONGs, Grupos comunitários, consultoria a Instituições de Ensino Poderá trabalhar também no desenvolvimento de projetos e em equipes multidisciplinares.",
         "target": "Profissionais com formação superior na área educacional , filósofos, teólogos, historiadores, e afins, com interesse na relação entre religião, ciência e vida.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Ensino-Religioso-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -506,18 +461,15 @@
         ]
       },
       {
+        "slug": "ensino-religioso",
+        "image": "/img/course-3.jpg",
         "title": "Ensino Religioso",
         "description:": "O profissional desta área atuará em Instituições públicas ou privadas de Educação Básica, ONGs, Grupos comunitários, consultoria a Instituições de Ensino Poderá trabalhar também no desenvolvimento de projetos e em equipes multidisciplinares.",
         "target": "Profissionais com formação superior na área educacional , filósofos, teólogos, historiadores, e afins, com interesse na relação entre religião, ciência e vida.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Ensino-Religioso-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -534,10 +486,11 @@
         ]
       },
       {
+        "slug": "gestao-escolar",
+        "image": "/img/course-3.jpg",
         "title": "Gestão Escolar ",
         "description:": "O especialista em Gestão Escolar deverá Liderar e motivar a equipe; Coordenar a elaboração do Projeto Político Pedagógico; Organizar a rotina escolar, zelando pelo cumprimento do calendário escolar e pela presença integral dos educadores; Conhecer e otimizar os recursos humanos, materiais e financeiros à disposição na unidade escolar; Acompanhar os processos de aprendizagem e de ensino e intervir quando os resultados se mostrarem frágeis, além de conhecer e reconhecer os bons desempenhos;",
         "target": "Graduados nas áreas da Educação Básica e nas áreas de: Assistência Social, Psicopedagogia, Fonoaudiologia, Educação Física, Pedagogia, Psicologia e áreas afins, além de demais profissionais ligados à prática da Educação.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -546,10 +499,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Gestao-Escolar-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -571,10 +520,11 @@
         ]
       },
       {
+        "slug": "lingua-portuguesa-oratoria-e-redacao",
+        "image": "/img/course-3.jpg",
         "title": "Língua Portuguesa, Oratória e Redação",
         "description:": "Formar profissionais capacitados a produzirem textos escritos e orais exigidos nas diferentes esferas e situações discursivas, bem como textos realizados em contextos acadêmicos.",
         "target": "O especialista em Língua Portuguesa, Oratória e Redação desenvolve saberes e fazeres pertinentes à docência dos respectivos conteúdos.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -583,10 +533,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Lingua-Portuguesa-Oratoria-e-Redacao-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -608,18 +554,15 @@
         ]
       },
       {
+        "slug": "mba-em-gestao-educacional-3",
+        "image": "/img/course-3.jpg",
         "title": "MBA em Gestão Educacional",
         "description:": "O egresso do curso de MBA em gestão educacional encontrar-se-á apto para atuar nos contextos administrativo, pedagógico e docente de instituições de ensino de todos os níveis, da rede pública, privada e também em ONGs ligadas à área educacional.",
         "target": "Egressos de cursos de graduação de licenciatura e profissionais graduados em cursos da área da Educação.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Mba-em-Gestao-Educacional-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -636,10 +579,11 @@
         ]
       },
       {
+        "slug": "neuropedagogia",
+        "image": "/img/course-3.jpg",
         "title": "Neuropedagogia",
         "description:": "Preparar o neuropedagogo dentro do enfoque preventivo, ou seja, em um trabalho direcionado para as condições de aprendizagem. Proporcionar ao neuropedagogo, as aplicações nos processos de estruturação do ser humano, em relação à neuropedagogia, neuropsicologia, neurociência em sala de aula.",
         "target": "Graduados nas áreas da Educação Básica e nas áreas de: Assistência Social, Psicopedagogia, Fonoaudiologia, Educação Física, Pedagogia, Psicologia e áreas afins, além de demais profissionais ligados à prática da Educação.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -648,10 +592,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Neuropedagogia-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -673,10 +613,11 @@
         ]
       },
       {
+        "slug": "neuropsicopedagogia",
+        "image": "/img/course-3.jpg",
         "title": "Neuropsicopedagogia",
         "description:": "O especialista formado em neuropsicopedagogia deverá ser um multi-especialista em aprendizagem humana, congregando conhecimentos de diversas áreas técnicas e científicas, com o objetivo de intervir nesse processo, tanto com o intuito de potencializá-lo, quanto de tratar dificuldades, utilizando instrumentos próprios para este fim. Também poderá trabalhar com a neuropsicopedagogia em sala de aula.",
         "target": "Professores de Educação Infantil, Professores do Ensino Fundamental I e II, Professores do Ensino Médio, Coordenadores, Gestores, Agentes Escolares e Auxiliares Técnicos de Educação, bem como graduados de diversas áreas, que tenham interesse em aprofundar conhecimentos em Neuropsicopedagogia. Egressos de cursos de graduação de licenciatura, Psicólogos e profissionais interessados em aprofundar seus conhecimentos nas áreas da Neuropsicopedagogia.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -685,10 +626,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Neuropsicopedagogia-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -710,18 +647,15 @@
         ]
       },
       {
+        "slug": "psicomotricidade-e-desenvolvimento-motor-na-educacao-infantil",
+        "image": "/img/course-3.jpg",
         "title": "Psicomotricidade e Desenvolvimento Motor na Educação Infantil",
         "description:": "Capacitar profissionais a compreender e promover o desenvolvimento físico e cognitivo de crianças. Através de abordagens práticas e teóricas, os alunos aprendem a criar ambientes de aprendizado enriquecedores, melhorando a qualidade da educação infantil e o bem-estar das crianças em suas fases iniciais de desenvolvimento.",
         "target": "Profissionais da área da educação, saúde e psicologia, como professores, psicopedagogos, terapeutas ocupacionais, fisioterapeutas, psicólogos, entre outros, que desejam aprofundar seus conhecimentos na área.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Psicomotricidade-e-Desenvolvimento-Motor-na-Educacao-Infantil-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -738,10 +672,11 @@
         ]
       },
       {
+        "slug": "psicomotricidade",
+        "image": "/img/course-3.jpg",
         "title": "Psicomotricidade",
         "description:": "Capacitar profissionais das áreas da saúde, educação e psicologia a compreender a interação entre aspectos motores e psicológicos no desenvolvimento humano. O curso promove o aprofundamento do conhecimento teórico e prático, permitindo que os profissionais utilizem abordagens psicomotoras para apoiar o desenvolvimento infantil, melhorar a qualidade de vida de pacientes e contribuir para o bem-estar psicofísico em diferentes contextos.",
         "target": "Profissionais da área da educação, saúde e psicologia, como professores, psicopedagogos, terapeutas ocupacionais, fisioterapeutas, psicólogos, entre outros, que desejam aprofundar seus conhecimentos em psicomotricidade.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -750,10 +685,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Psicomotricidade-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -775,10 +706,11 @@
         ]
       },
       {
+        "slug": "psicopedagogia-clinica-e-institucional",
+        "image": "/img/course-3.jpg",
         "title": "Psicopedagogia Clínica e Institucional",
         "description:": "Capacitar e atualizar o conhecimento do profissional da educação na intervenção clínica para a otimização do processo de ensino–aprendizagem, compreendendo as condições do aprendiz e do professor, criando situações favoráveis, respaldadas em fundamentos teóricos.",
         "target": "Egressos de cursos de graduação de licenciatura, professores, diretores, pedagogos, psicólogos e profissionais interessados em aprofundar seus conhecimentos nas áreas da Psicopedagogia Clínica e Institucional.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -787,10 +719,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Psicopedagogia-Clinica-e-Institucional-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -812,10 +740,11 @@
         ]
       },
       {
+        "slug": "psicopedagogia-clinica",
+        "image": "/img/course-3.jpg",
         "title": "Psicopedagogia Clínica ",
         "description:": "O psicopedagogo clínico tem como campo de atuação o trabalho com pacientes em ambientes hospitalares, ONGs, centros comunitários, entre outros. Além do trabalho em consultório, orientando alunos e famílias em seus processos de aprendizagem.",
         "target": "Egressos de cursos de graduação de licenciatura, professores, diretores, pedagogos, psicólogos e profissionais interessados em aprofundar seus conhecimentos nas áreas da Psicopedagogia Clínica.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -824,10 +753,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Psicopedagogia-Clinica-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -849,10 +774,11 @@
         ]
       },
       {
+        "slug": "psicopedagogia-institucional",
+        "image": "/img/course-3.jpg",
         "title": "Psicopedagogia Institucional",
         "description:": "O psicopedagogo institucional, de outra forma, atua com grupos de pessoas. Pode ser em escolas, hospitais e empresas, por exemplo. Seu papel pode variar de instituição para instituição, mas suas atribuições costumam envolver a avaliação de comportamentos e a identificação de fatores que podem influenciar no desempenho individual, com repercussões coletivas. Poderá trabalhar também no desenvolvimento de projetos e em equipes multidisciplinares.",
         "target": "Egressos de cursos de graduação de licenciatura, professores, diretores, pedagogos, psicólogos e profissionais interessados em aprofundar seus conhecimentos nas áreas da Psicopedagogia Institucional.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -861,10 +787,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Psicopedagogia-Institucional-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -886,10 +808,11 @@
         ]
       },
       {
+        "slug": "supervisao-e-inspecao-escolar",
+        "image": "/img/course-3.jpg",
         "title": "Supervisão e Inspeção Escolar",
         "description:": "Especialista em Supervisão e Inspeção Escolar atuará na orientação, assistência e controle do processo administrativo das escolas e, na forma do regulamento, do seu processo pedagógico, orientação da organização dos processos de criação, autorização de funcionamento, reconhecimento e registro de escolas, no âmbito da sua área de atuação. Estará habilitado também para trabalhar no planejamento escolar, coordenar a elaboração e implementação do currículo, acompanhamento da evolução dos alunos, acompanhamento do corpo docente, elaboração do quadro de horário escolar e contato com as famílias dos discentes.",
         "target": "Graduados nas mais diversas áreas do conhecimento como: educadores, pedagogos, psicólogos, administradores, professores, entre outras, que tenham interesse em se especializar em Supervisão e Inspeção Escolar.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -898,10 +821,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Supervisao-e-Inspecao-Escolar-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -923,10 +842,11 @@
         ]
       },
       {
+        "slug": "supervisao-inspecao-e-gestao-escolar",
+        "image": "/img/course-3.jpg",
         "title": "Supervisão, Inspeção e Gestão Escolar",
         "description:": "O curso visa a necessidade de formação continuada dos profissionais egressos dos cursos de graduação, permitindo a esses profissionais contribuir de forma relevante para a melhoria da qualidade da educação a partir de uma atuação segura e compromissada. Além disso, o curso de especialização se constitui num diferencial na carreira profissional de seus egressos.",
         "target": "Graduados nas mais diversas áreas do conhecimento como: educadores, pedagogos, psicólogos, administradores, professores, entre outras, que tenham interesse em se especializar em Supervisão e Inspeção Escolar.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -935,10 +855,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Supervisao-Inspecao-e-Gestao-Escolar-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -960,10 +876,11 @@
         ]
       },
       {
+        "slug": "metodologia-do-ensino-da-matematica",
+        "image": "/img/course-3.jpg",
         "title": "Metodologia do Ensino da Matemática",
         "description:": "Profissionais atuarem como facilitadores no processo de aquisição da linguagem escrita, desenvolvendo habilidades para o planejamento, organização e mediação pedagógica.",
         "target": "O curso se destina aos profissionais graduados em Pedagogia, Psicologia, Fonoaudiologia, profissionais da educação e áreas afins, assim como em diferentes especialidades, interessados na temática do curso.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -972,10 +889,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Metodologia-do-Ensino-da-Matematica-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -1004,18 +917,15 @@
     "url": "https://institutopasso1.com.br/cursos-educacao-fisica-2/",
     "courses": [
       {
+        "slug": "bioenergetica-e-fisiologia-do-exercicio-2",
+        "image": "/img/course-3.jpg",
         "title": "Bioenergética e Fisiologia do Exercício",
         "description:": "O profissional especialista em Bioenergética e Fisiologia do Exercício poderá trabalhar em academias de ginástica e musculação, clínicas especializadas, laboratórios de Fisiologia, clubes, agremiações esportivas ou como profissional liberal (Personal Trainer, Consultor).",
         "target": "Profissionais egressos de cursos de graduação em Educação Física e demais profissionais graduados ligados à Fisiologia, esportes e atividade física.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Bioenergetica-e-Fisiologia-do-Exercicio-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -1032,18 +942,15 @@
         ]
       },
       {
+        "slug": "docencia-em-educacao-fisica",
+        "image": "/img/course-3.jpg",
         "title": "Docência em Educação Física",
         "description:": "O profissional desta área atuará como Professor em instituições de ensino públicas e privadas de pequeno, médio e grande porte. Poderá trabalhar também no desenvolvimento de projetos e em equipes multidisciplinares.",
         "target": "Graduados na área da Educação Física e demais profissionais que desejam adquirir conhecimento sobre a Docência no Ensino de Educação Física.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Docencia-em-Educacao-Fisica-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -1060,10 +967,11 @@
         ]
       },
       {
+        "slug": "educacao-fisica-escolar",
+        "image": "/img/course-3.jpg",
         "title": "Educação Física Escolar",
         "description:": "Aprofundar o conhecimento acerca dos saberes sobre a atividade física na escola, através de atividades lúdicas que promovam práticas saudáveis ao corpo. Oferecer alternativas pedagógicas no ensino multidisciplinar ligadas ao currículo da educação básica.",
         "target": "Educadores, professores, pedagogos e demais profissionais da área da educação que desejam implementar a avaliação de programas do componente curricular da Educação Física.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -1072,10 +980,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Educacao-Fisica-Escolar-3-meses-2.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -1097,18 +1001,15 @@
         ]
       },
       {
+        "slug": "educacao-fisica-escolar-e-educacao-ludica",
+        "image": "/img/course-3.jpg",
         "title": "Educação Física Escolar e Educação Lúdica",
         "description:": "O profissional desta área atuará no ensino básico, fundamental ou médio. Além disso, pode atuar em instituições privadas ou na rede pública. Poderá trabalhar também no desenvolvimento de projetos e em programas especiais como o combater o sedentarismo e a promoção de atividades educativas com crianças e adolescentes que apresentam algum tipo de necessidade especial.",
         "target": "Professores de Educação Física, Pedagogos, Professores do ensino fundamental I e Educação Infantil, profissionais de áreas afins de demais profissionais ligados a prática docente na Educação.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Educacao-Fisica-Escolar-e-Educacao-Ludica-3-meses-1.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -1125,18 +1026,15 @@
         ]
       },
       {
+        "slug": "fisiologia-aplicada-ao-treinamento-de-corridas",
+        "image": "/img/course-3.jpg",
         "title": "Fisiologia Aplicada ao Treinamento de Corridas",
         "description:": "O profissional egresso do curso de pós-graduação lato sensu em Fisiologia aplicada ao treinamento de corridas, estará apto a operar em um dos segmentos que mais crescem no Brasil e no Mundo no que tange a pratica atividades físicas. Poderá atuar como professor em grupos de treinamento, elaboração de planilhas de treino, avaliações físicas, antropométricas, estabelecer metas e objetivos ao indivíduo praticante de corrida, trabalhar o aumento dos limiares e condições limitantes do ser humano referente a parte física e fisiológica, relacionadas ao exercício.",
         "target": "Médicos, Dentistas, Enfermeiros, Farmacêuticos, Nutricionistas, Assistentes Sociais, Fisioterapeutas, Psicólogos, Fonoaudiólogos, Biólogos, Administradores, Contadores, Economistas, Advogados e outros profissionais de nível superior de áreas correlatas.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Fisiologia-Aplicada-ao-Treinamento-de-Corridas-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -1153,18 +1051,15 @@
         ]
       },
       {
+        "slug": "fisiologia-cardiovascular-aplicada-ao-exercicio-2",
+        "image": "/img/course-3.jpg",
         "title": "Fisiologia Cardiovascular Aplicada ao Exercício",
         "description:": "O profissional especialista em Fisiologia Cardiovascular aplicada ao Exercício poderá trabalhar na prescrição de atividades físicas para qualquer aptidão (preventiva, manutenção ou performance) ou com foco na reabilitação. Ele poderá também orientar programas de modificação comportamental. O curso de pós-graduação lato sensu oportuniza ao egresso prevenir e tratar condições médicas tais como a obesidade, osteoporose, depressão, asma e doenças cardiovasculares e outras condições.",
         "target": "Profissionais egressos de cursos de graduação em Educação Física e demais profissionais graduados ligados à Fisiologia, esportes e atividade física.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Fisiologia-Cardiovascular-Aplicada-ao-Exercicio-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -1181,18 +1076,15 @@
         ]
       },
       {
+        "slug": "fisiologia-cardiovascular-aplicada-ao-exercicio-2",
+        "image": "/img/course-3.jpg",
         "title": "Fisiologia Cardiovascular Aplicada ao Exercício",
         "description:": "O profissional especialista em Fisiologia Cardiovascular aplicada ao Exercício poderá trabalhar na prescrição de atividades físicas para qualquer aptidão (preventiva, manutenção ou performance) ou com foco na reabilitação. Ele poderá também orientar programas de modificação comportamental. O curso de pós-graduação lato sensu oportuniza ao egresso prevenir e tratar condições médicas tais como a obesidade, osteoporose, depressão, asma e doenças cardiovasculares e outras condições.",
         "target": "Profissionais egressos de cursos de graduação em Educação Física e demais profissionais graduados ligados à Fisiologia, esportes e atividade física.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Fisiologia-Cardiovascular-Aplicada-ao-Exercicio-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -1209,18 +1101,15 @@
         ]
       },
       {
+        "slug": "fisiologia-do-exercicio-e-nutricao-2",
+        "image": "/img/course-3.jpg",
         "title": "Fisiologia do Exercício e Nutrição",
         "description:": "Formação de especialistas em Fisiologia e Nutrição para atender a demanda crescente de ações voltadas para a promoção de saúde, bem como, de performance e estética. Atendimento em academias, clínicas desportivas, clubes e no Sistema Único de Saúde (SUS).",
         "target": "Profissionais egressos de cursos de graduação em Educação Física e demais profissionais graduados ligados à Fisiologia, esportes e atividade física.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Fisiologia-do-Exercicio-e-Nutricao-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -1237,18 +1126,15 @@
         ]
       },
       {
+        "slug": "nutricao-aplicada-a-estetica-2",
+        "image": "/img/course-3.jpg",
         "title": "Nutrição Aplicada a Estética",
         "description:": "O egresso do curso de especialização em Nutrição aplicada à Estética encontrar-se-á apto para o desempenho profissional em consultórios particulares, clínicas de estética, academias, clínicas de cirurgia plástica, clínicas dermatológicas, entre outros.",
         "target": "Profissionais graduados em Nutrição e demais profissionais da área da saúde que busquem aprimoramento profissional da área de nutrição estética.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Nutricao-Aplicada-a-Estetica-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -1265,18 +1151,15 @@
         ]
       },
       {
+        "slug": "nutricao-aplicada-ao-esporte-2",
+        "image": "/img/course-3.jpg",
         "title": "Nutrição Aplicada ao Esporte",
         "description:": "Pretende-se que o pós-graduando tenha condições de planejar, diagnosticar, orientar, resolver e encaminhar soluções, compreensão de programas voltados à prática da saúde, e realizar atividades com foco nas inovações tecnológicas. Atuar no atendimento em saúde em instituições públicas e privadas, envolvendo o manuseio de processos e assistência à pessoa.",
         "target": "Profissionais graduados em Nutrição e demais profissionais da área da saúde que busquem aprimoramento profissional da área de nutrição esportiva.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Nutricao-Aplicada-ao-Esporte-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -1293,10 +1176,11 @@
         ]
       },
       {
+        "slug": "obesidade-e-exercicio-2",
+        "image": "/img/course-3.jpg",
         "title": "Obesidade e Exercício",
         "description:": "Capacitar profissionais de Educação Física para atuar na elaboração de programas de treinamento para esta população. Preparar os profissionais para o desenvolvimento de novas técnicas e processos com relação a exercício, saúde e alimentação do paciente. Podendo atuar em clínicas, academias, clubes, atendimento ¨in home¨.",
         "target": "Profissionais graduados em nutrição, educação física, e demais profissionais graduados ligados à Fisiologia, esportes e atividade física.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -1305,10 +1189,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Obesidade-e-Exercicios-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -1330,10 +1210,11 @@
         ]
       },
       {
+        "slug": "treinamento-personalizado-2",
+        "image": "/img/course-3.jpg",
         "title": "Treinamento Personalizado",
         "description:": "Prescrição de exercícios a indivíduos e grupos específicos. Especializar na motivação, gestão, planejamento e acompanhamento de clientes; problematizar o atendimento aos objetivos dos clientes e sua relação com o programa de treinamento personalizado; compreender a relação entre qualidade de vida, saúde e treinamento personalizado.",
         "target": "Profissionais graduados em nutrição, educação física, e demais profissionais graduados ligados à Fisiologia, esportes e atividade física.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -1342,10 +1223,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Treinamento-Personalizado-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -1374,10 +1251,11 @@
     "url": "https://institutopasso1.com.br/cursos-gestao-mba/",
     "courses": [
       {
+        "slug": "mba-em-agronegocio-e-desenvolvimento-sustentavel-2",
+        "image": "/img/course-3.jpg",
         "title": "MBA em Agronegócio e Desenvolvimento Sustentável",
         "description:": "Formação de especialistas em Agronegócio e Desenvolvimento Sustentável atua no desenvolvimento de empresas do campo, proporcionando vantagem competitiva para essas empresas, com sustentabilidade para atender a demanda local, regional e nacional de desenvolvimento e melhorias na gestão do campo.",
         "target": "Profissionais das áreas de Agronomia, Engenharia Ambiental, Ecologia, Veterinária e afins.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -1386,10 +1264,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Mba-em-Agronegocios-e-Desenvolvimento-Sustentavel-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -1411,18 +1285,15 @@
         ]
       },
       {
+        "slug": "mba-em-desenvolvimento-de-lideres-e-gestao-de-equipes-2",
+        "image": "/img/course-3.jpg",
         "title": "MBA em Desenvolvimento de Líderes e Gestão de Equipes",
         "description:": "O egresso do MBA em Desenvolvimento de Líderes e Gestão de Equipes poderá atuar em empresas públicas ou privadas integrando os setores de RH ou Gestão de Pessoas, trabalhando de forma integrada com a administração organizacional. O profissional pode exercer cargos de consultor de recrutamento, analista de folha de pagamento, coordenador de cargos e salários, diretor de Departamento Pessoal, dentre outros.",
         "target": "Profissionais graduados especialmente administradores, gestores, gerentes, empreendedores, economista, contabilistas, e demais interessados em aprofundar seus conhecimentos em desenvolvimento de novos líderes e gestão de equipes.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Mba-em-Desenvolvimento-de-Lideres-e-Gestao-de-Equipes-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -1439,10 +1310,11 @@
         ]
       },
       {
+        "slug": "mba-em-gestao-de-contabilidade-e-financas-empresariais-2",
+        "image": "/img/course-3.jpg",
         "title": "MBA em Gestão de Contabilidade e Finanças Empresariais",
         "description:": "O profissional especialista em Gestão de Contabilidade e Finanças Empresariais estará apto a atuar no departamento financeiro/contábil de qualquer organização. O curso possibilita ao profissional conhecer os fundamentos e as ferramentas de Contabilidade e Gestão Financeira.",
         "target": "Graduados e empreendedores que buscam tanto o aperfeiçoamento nas áreas contábeis, como a agilidade em lidar com os setores financeiros da empresa; Que atuam ou pretendem atuar em posições hierárquicas de tomada de decisão; Com interesse em ingressar ou aprofundar-se em assuntos relativos à área contábil e financeira.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -1451,10 +1323,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Mba-em-Gestao-de-Contabilidade-e-Financas-Empresariais-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -1476,10 +1344,11 @@
         ]
       },
       {
+        "slug": "mba-em-gestao-de-pessoas-coaching",
+        "image": "/img/course-3.jpg",
         "title": "MBA em Gestão de Pessoas & Coaching",
         "description:": "O especialista em Gestão de Pessoas e Coaching deverá coordenar e desenvolver estratégias de atuação e de trabalho para os funcionários de uma empresa. Também é de responsabilidade do profissional dessa área o bem-estar da equipe de funcionários de uma empresa, bem como o cumprimento dos direitos trabalhistas, os pagamentos de todas as contribuições e a contratação e demissão dos funcionários.",
         "target": "Profissionais liberais, administradores, gestores, executivos e empreendedores de todas as áreas interessadas em ampliar suas competências na gestão de pessoas e no aperfeiçoamento de habilidades de liderança dentro das organizações.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -1488,10 +1357,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Mba-em-Gestao-de-Pessoas-e-Coaching-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -1513,18 +1378,15 @@
         ]
       },
       {
+        "slug": "mba-em-gestao-de-pessoas-e-planejamento-empresarial-2",
+        "image": "/img/course-3.jpg",
         "title": "MBA em Gestão de Pessoas e Planejamento Empresarial",
         "description:": "O egresso do MBA em Gestão de Pessoas e planejamento empresarial poderá atuar em empresas públicas ou privadas e em qualquer ambiente corporativo, sendo na área de recursos humanos, vendas, financeiro, administração de empresas, comércio exterior, setores públicos, controladoria e marketing, dentre outros.",
         "target": "Profissionais graduados especialmente administradores, gestores, gerentes, empreendedores, economista, contabilistas, e demais interessados em aprofundar seus conhecimentos em gestão de equipes e planejamento empresarial.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Mba-em-Gestao-de-Pessoas-Planejamento-Empresarial-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -1541,18 +1403,15 @@
         ]
       },
       {
+        "slug": "mba-em-gestao-de-talentos-humanos-2",
+        "image": "/img/course-3.jpg",
         "title": "MBA em Gestão de Talentos Humanos",
         "description:": "O egresso do MBA em Gestão de Talentos Humanos poderá trabalhar em departamentos e divisões de Recursos Humanos, em empresas públicas, privadas, autarquias ou ONSs desempenhando diversas funções tais como: mapeamento e avaliação de competências; recrutamento e seleção; benefícios e remuneração, treinamento e desenvolvimento. O profissional desta área é capaz de desenvolver e gerenciar planos de carreira dos funcionários, analisar estratégias institucionais, elaborar planos de recrutamento, seleção e treinamento de pessoal.",
         "target": "Profissionais graduados que desejam atuar em funções de supervisão, coordenação, gestão, liderança, consultoria, entre outras, nas diversas áreas das organizações públicas, privadas, ONGs ou profissional liberal/MEI.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Mba-em-Gestao-de-Talentos-Humanos-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -1569,10 +1428,11 @@
         ]
       },
       {
+        "slug": "mba-em-gestao-estrategica-de-logistica-2",
+        "image": "/img/course-3.jpg",
         "title": "MBA em Gestão Estrategica de Logística",
         "description:": "O especialista em Gestão Estratégica de Logística deverá coordenar e desenvolver estratégias de atuação e de trabalho para todos os envolvidos na cadeia produtiva da empresa, como também analisar, conhecer e implementar novas tendências ao dia a dia da Logística da empresa em que atuará.",
         "target": "Propõe a formação e atualização de profissionais com conhecimento sobre as áreas diversas de Gestão em Logística como também desenvolver a visão estratégica pertinentes à administração de organizações de grandezas distintas.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -1581,10 +1441,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Mba-em-Gestao-Estrategica-de-Logistica-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -1606,10 +1462,11 @@
         ]
       },
       {
+        "slug": "mba-em-gestao-estrategica-e-lideranca-2",
+        "image": "/img/course-3.jpg",
         "title": "MBA em Gestão Estratégica e Liderança",
         "description:": "O Curso proporcionará o aperfeiçoamento profissional, visando o desenvolvimento de estratégias voltadas para aprendizagem continuada na gestão, com ênfase em práticas participativas e com senso humano de inovação.",
         "target": "Profissionais graduados especialmente administradores, gestores, gerentes, empreendedores, economista, contabilistas, marketing e demais interessados em aprofundar seus conhecimentos em Gestão Estratégica e Liderança.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -1618,10 +1475,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Mba-em-Gestao-Estrategica-e-Lideranca-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -1643,10 +1496,11 @@
         ]
       },
       {
+        "slug": "mba-em-gestao-publica-2",
+        "image": "/img/course-3.jpg",
         "title": "MBA em Gestão Pública",
         "description:": "Capacitar profissionais para atuação como gestores, executivos, profissionais de alta performance e consultores em órgãos públicos e em instituições privadas que atuem em parceria com o Poder Público.",
         "target": "O programa é voltado a profissionais de todas as formações que já atuam ou desejam atuar no serviço público nas esferas federal, estadual e municipal, bem como em fundações e organizações não-governamentais.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -1655,10 +1509,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Mba-em-Gestao-Publica-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -1680,18 +1530,15 @@
         ]
       },
       {
+        "slug": "mba-em-negocios-e-financas-empresariais-2",
+        "image": "/img/course-3.jpg",
         "title": "MBA em Negócios e Finanças Empresariais",
         "description:": "O egresso do MBA em Negócios e Finanças Empresariais poderá trabalhar no departamento financeiro/contábil de qualquer organização pública ou privada, exercendo cargo de liderança (gerência ou direção), além de atuar como consultor empresarial, operar em instituições financeiras e empresas ligadas a área.",
         "target": "Profissionais graduados especialmente administradores, gestores, gerentes, empreendedores, economista, contabilista, e demais interessados em aprofundar seus conhecimentos em finanças e negócios.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Mba-em-Negocios-e-Financas-Empresariais-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -1708,18 +1555,15 @@
         ]
       },
       {
+        "slug": "mba-executivo-em-agronegocios",
+        "image": "/img/course-3.jpg",
         "title": "MBA Executivo em Agronegócios",
         "description:": "O egresso do MBA executivo em Agronegócios poderá trabalhar em instituições e empresas rurais e agropecuária, atuando diretamente na gestão do processamento e beneficiamento, comercialização, assistência técnica às normas sanitárias e adequação dos processos de produção de alimentos.",
         "target": "Egressos dos cursos de engenharias, veterinária, agronomia, bioquímica, administração, nutrição, biologia, zootecnia, economia, contabilidade, comunicação e outros cursos superiores que atuam na área de Agronegócios.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Mba-Executivo-em-Agronegocio-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -1736,10 +1580,11 @@
         ]
       },
       {
+        "slug": "mba-executivo-em-gestao-empresarial-2",
+        "image": "/img/course-3.jpg",
         "title": "MBA Executivo em Gestão Empresarial",
         "description:": "O gestor empresarial controla e dirige empresas públicas ou privadas, tendo como objetivo maior produtividade e lucratividade, avaliando os objetivos organizacionais e desenvolvendo as estratégias necessárias para alcançá-los, sendo responsável pela implantação de tudo que planejou e, portanto, vai ser aquele que define os programas e métodos de trabalho, avaliando os resultados e corrigindo os setores e procedimentos que estiverem com problemas.",
         "target": "Profissionais das diversas áreas do conhecimento como: Administração, Rh, Economia, Contábeis, Marketing, entre outros, que desejam atualizar seus conhecimento sobre as áreas diversas de gestão como também desenvolver a visão estratégica pertinentes à administração de organizações de grandezas distintas.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -1748,10 +1593,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Mba-Executivo-em-Gestao-Empresarial-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -1780,10 +1621,11 @@
     "url": "https://institutopasso1.com.br/cursos-saude-2/",
     "courses": [
       {
+        "slug": "administracao-hospitalar-2",
+        "image": "/img/course-3.jpg",
         "title": "Administração Hospitalar",
         "description:": "Fomentar o pensamento crítico na administração hospitalar eficiente, capacitando gestores para a gestão humanizada e moderna de instituições hospitalares; Habilitar profissionais para gestão de materiais, espaços e pessoal dentro do ambiente hospitalar.",
         "target": "O curso é destinado para profissionais de diversas áreas do conhecimento que desejam desempenhar funções de chefia na gestão da saúde e processos administrativos hospitalares, sendo possível atuarem como coordenadores, supervisores e diretores.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -1792,10 +1634,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Administracao-Hospitalar-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -1817,10 +1655,11 @@
         ]
       },
       {
+        "slug": "administracao-hospitalar-2",
+        "image": "/img/course-3.jpg",
         "title": "Administração Hospitalar",
         "description:": "Fomentar o pensamento crítico na administração hospitalar eficiente, capacitando gestores para a gestão humanizada e moderna de instituições hospitalares; Habilitar profissionais para gestão de materiais, espaços e pessoal dentro do ambiente hospitalar.",
         "target": "O curso é destinado para profissionais de diversas áreas do conhecimento que desejam desempenhar funções de chefia na gestão da saúde e processos administrativos hospitalares, sendo possível atuarem como coordenadores, supervisores e diretores.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -1829,10 +1668,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Administracao-Hospitalar-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -1854,10 +1689,11 @@
         ]
       },
       {
+        "slug": "dependencia-quimica-2",
+        "image": "/img/course-3.jpg",
         "title": "Dependência Química",
         "description:": "Ao final do curso o profissional se encontrará apto e capacitado a realizar atividades juntamente com equipe especializada nos âmbitos: Centros de Atenção Psicossocial Álcool e Drogas (CPSad); Unidade Básica de Saúde; Comunidades Terapêuticas; Central de Regulação (SAMU); Unidades de Acolhimento; Unidade de Pronto Atendimento (UPA); Enfermarias especializadas em álcool e drogas.",
         "target": "Profissionais com curso de graduação nas diversas áreas da Saúde, Ciência Humana ou Social, tais como médicos, psicólogos, enfermeiros, fisioterapeutas, assistentes sociais, fonoaudiólogos, terapeutas ocupacionais, antropólogos, sociólogos e/ou trabalhadores de nível superior da área de Saúde Mental.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -1866,10 +1702,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Dependencia-Quimica-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -1891,10 +1723,11 @@
         ]
       },
       {
+        "slug": "enfermagem-do-trabalho-2",
+        "image": "/img/course-3.jpg",
         "title": "Enfermagem do Trabalho",
         "description:": "Preparar e capacitar o profissional de Enfermagem para o campo da saúde ocupacional, capacitando-o para o desempenho de funções específicas de prevenção, promoção e recuperação da saúde do trabalhador com ênfase nos conhecimentos da Higiene Ocupacional e Segurança do Trabalho. Visa também aprofundar os conhecimentos e desenvolver habilidades que valorizem a Saúde e Trabalho no compromisso político-social com a qualidade de vida do trabalhador.",
         "target": "O Especialista em Enfermagem do Trabalho é o profissional com formação em Enfermagem que atuará, por força de lei, em empresas públicas e privadas ou em órgãos oficiais, como integrante dos serviços especializados em engenharia de segurança e medicina do trabalho, co-participando com o enfermeiro no planejamento, programação, orientação e execução das atividades de enfermagem do trabalho, nos três níveis de prevenção, integrando a equipe de saúde do trabalhador.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -1903,10 +1736,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Enfermagem-do-Trabalho-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -1928,18 +1757,15 @@
         ]
       },
       {
+        "slug": "enfermagem-em-uti-2",
+        "image": "/img/course-3.jpg",
         "title": "Enfermagem em UTI",
         "description:": "O egresso do curso de Enfermagem em UTI poderá atuar nas dependências hospitalares destinadas ao atendimento de pacientes graves ou de risco, prestando assistência contínua, pessoal e tecnológica, relacionando-se com os demais setores hospitalares e de forma multidisciplinar.",
         "target": "Egressos dos cursos de enfermagem, medicina, fisioterapia e demais profissionais gestores que tenham interesse em se especializar em Enfermagem em UTI.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Enfermagem-em-UTI-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -1956,10 +1782,11 @@
         ]
       },
       {
+        "slug": "enfermagem-neonatal-e-pediatrica-2",
+        "image": "/img/course-3.jpg",
         "title": "Enfermagem Neonatal e Pediátrica",
         "description:": "O especialista em Gestão dos Serviços de Enfermagem Neonatal e Pediátrica é o profissional capaz de prestar uma assistência ao neonatal e a criança hospitalizada, entendendo o processo saúde-doença desses pacientes no contexto sócio-familiar.",
         "target": "Graduados em Enfermagem ou demais áreas afins da saúde, sendo que seu conselho de classe reconheçam a Enfermagem Pediátrica e Neonatal como especialidade.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -1968,10 +1795,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Enfermagem-Neonatal-e-Pediatrica-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -1993,10 +1816,11 @@
         ]
       },
       {
+        "slug": "gerontologia-2",
+        "image": "/img/course-3.jpg",
         "title": "Gerontologia",
         "description:": "Preparar/instrumentalizar os profissionais da Saúde sobre temas fundamentais do processo de envelhecimento humano. Construindo uma base sólida de conhecimentos centrada na educação para saúde, no cuidar, tendo como base o conhecimento das doenças associadas ao processo de envelhecimento e no retorno da capacidade funcional do idoso na realização das suas atividades com o objetivo de atender suas necessidades básicas e alcançar sua independência.",
         "target": "Profissionais graduados, em especial na área de Ciências da Saúde, tais como: médicos, enfermeiros, fisioterapeutas, nutricionistas, fonoaudiólogos, terapeutas ocupacionais, educadores físicos, psicólogos, odontólogos, farmacêuticos, biomédicos e profissionais que já trabalham ou têm interesse em atuar na área do envelhecimento.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -2005,10 +1829,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Gerontologia-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -2030,18 +1850,15 @@
         ]
       },
       {
+        "slug": "mba-em-auditoria-em-servicos-de-saude-2",
+        "image": "/img/course-3.jpg",
         "title": "MBA em Auditoria em Serviços de Saúde",
         "description:": "Atuar na gestão e auditoria de sistemas de saúde em empresas públicas e privadas, terceirizadas (planos de saúde, seguradoras, autogestoras de saúde, contratadas do SUS e outras), assim como as de assistência médica e hospitalar. Habilitar para a função de Auditor interno em empresas prestadoras de serviço de assistência médica e hospitalar (hospitais, clínicas, laboratórios e outras).",
         "target": "Médicos, Dentistas, Enfermeiros, Farmacêuticos, Nutricionistas, Assistentes Sociais, Fisioterapeutas, Psicólogos, Fonoaudiólogos, Biólogos, Administradores, Contadores, Economistas, Advogados e outros profissionais de nível superior de áreas correlatas.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Mba-em-Auditoria-em-Servicos-de-Saude-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -2058,18 +1875,15 @@
         ]
       },
       {
+        "slug": "mba-em-gestao-hospitalar-2",
+        "image": "/img/course-3.jpg",
         "title": "MBA em Gestão Hospitalar",
         "description:": "Esse profissional é responsável por manter a infraestrutura do espaço físico do local onde ele trabalha, determinando o melhor uso para ele. O gestor hospitalar ainda é responsável por planejar e garantir a manutenção preventiva dos equipamentos médicos, controle dos estoques de materiais, da limpeza até a destinação adequada dos resíduos gerados dentro do ambiente hospitalar.",
         "target": "Profissionais graduados nas áreas de Administração, Medicina, Enfermagem, Farmácia, Serviço Social e outros profissionais que desejam aperfeiçoar seus conhecimentos na área de Gestão Hospitalar.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Mba-em-Gestao-Hospitalar-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -2086,18 +1900,15 @@
         ]
       },
       {
+        "slug": "mba-em-saude-do-idoso-e-gerontologia-2",
+        "image": "/img/course-3.jpg",
         "title": "MBA em Saúde do Idoso e Gerontologia",
         "description:": "O egresso do curso de MBA em Saúde do Idoso e Gerontologia poderá atuar em ambulatórios, clínicas especializadas, ONGs, órgãos de assistência social, hospitais, casas de apoio a idosos, centros de saúde e convivência, além de atendimentos domiciliares.",
         "target": "Graduados em cursos da área de Ciências da Saúde e demais profissionais que desejem atuar na área de Gerontologia e Saúde de Idoso.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Mba-em-Saude-do-Idoso-e-Gerontologia-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -2114,18 +1925,15 @@
         ]
       },
       {
+        "slug": "mba-em-saude-e-qualidade-de-vida-2",
+        "image": "/img/course-3.jpg",
         "title": "MBA em Saúde e Qualidade de Vida",
         "description:": "O egresso no curso de MBA em Saúde e Qualidade de Vida poderá atuar na gestão de programas de promoção de saúde e bem-estar em organizações públicas e privadas, planos de saúde e outras instituições de saúde como: hospitais, clínicas, consultorias em saúde e bem-estar, empresas de assistência à saúde, home care, gestão de doenças crônicas, operadoras de saúde e de gestão de recursos humanos.",
         "target": "Profissionais da área da Saúde que desejem trabalhar na área de promoção e prevenção de saúde.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Mba-em-Saude-e-Qualidade-de-Vida-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -2142,18 +1950,15 @@
         ]
       },
       {
+        "slug": "mba-em-saude-publica-e-do-trabalhador-2",
+        "image": "/img/course-3.jpg",
         "title": "MBA em Saúde Pública e do Trabalhador",
         "description:": "trabalhadores, no plano individual e coletivo nas empresas públicas e privadas. O egresso poderá atuar na promoção da saúde integral dos trabalhadores, prevenção de doenças e controle de riscos advindos das atividades e do ambiente de trabalho, bem como conhecer as doenças ocupacionais; Adquirir conhecimentos básicos de epidemiologia, toxicologia, programas de saúde e segurança do trabalhador; Reconhecer os riscos ambientais, orientar medidas de intervenção, protetoras e corretivas, acolher e orientar trabalhadores numa visão holística de sua saúde e demandas.",
         "target": "Graduados em Enfermagem, Serviço Social, Psicologia, Farmácia, Biomedicina, Biologia, Medicina ou graduados em cursos de áreas afins.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Mba-em-Saude-Publica-e-do-Trabalhador-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -2170,18 +1975,15 @@
         ]
       },
       {
+        "slug": "mba-em-toxicologia-e-dependencia-quimica-2",
+        "image": "/img/course-3.jpg",
         "title": "MBA em Toxicologia e Dependência Química",
         "description:": "Possibilita ao egresso habilidade para atuar diretamente nos setores ligados à Dependência Química (como CAPES, clínicas de recuperação, programas sociais, grupos de apoio), através de conhecimentos técnicos, práticos e atualizados na prevenção, rastreio, avaliação, abordagem e intervenção individual e coletiva de populações vulneráveis ao álcool e outras drogas, portadores de dependência química e seus familiares;",
         "target": "Graduados em Enfermagem, Serviço Social, Psicologia, Farmácia, Biomedicina, Biologia, Medicina ou graduados em cursos de áreas afins.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Mba-em-Toxicologia-e-Dependencia-Quimica-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -2198,18 +2000,15 @@
         ]
       },
       {
+        "slug": "mba-em-vigilancia-em-saude-epidemiologica-2",
+        "image": "/img/course-3.jpg",
         "title": "MBA em Vigilância em Saúde Epidemiológica",
         "description:": "O egresso no curso de MBA em Vigilância em Saúde Epidemiológica poderá atuar como coordenador, fiscal ou consultor nas áreas de vigilância sanitária, ambiental e epidemiológica em organizações públicas, empresas privadas e organizações não-governamentais no Setor de vigilância em saúde e de planejamento no âmbito do serviço público em saúde (secretarias municipais, estaduais, agências nacionais) além do setor privado (hospitais, empresas, organizações não governamentais, consultorias).",
         "target": "Profissionais que atuam na área da saúde que desejem atuar em cargos de liderança e gerência nos serviços de saúde. Profissionais que atuam nos serviços de vigilância em saúde, vigilância epidemiológica, sanitária, ambiental e de saúde do trabalhador.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Mba-em-Vigilancia-em-Saude-Epidemiologica-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -2226,10 +2025,11 @@
         ]
       },
       {
+        "slug": "saude-mental-2",
+        "image": "/img/course-3.jpg",
         "title": "Saúde Mental",
         "description:": "Especializar o profissional para que possa planejar, organizar e executar ações e projetos de saúde mental no âmbito dos novos serviços territoriais de atenção psicossocial, considerando o processo de implantação do novo modelo assistencial de saúde mental, com base nos paradigmas propostos pela reforma psiquiátrica.",
         "target": "Profissionais com curso de graduação nas diversas áreas da Saúde, Ciência Humana ou Social, tais como médicos, psicólogos, enfermeiros, fisioterapeutas, assistentes sociais, fonoaudiólogos, terapeutas ocupacionais, antropólogos, sociólogos e/ou trabalhadores de nível superior da área de Saúde Mental.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -2238,10 +2038,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Saude-Mental-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -2263,18 +2059,15 @@
         ]
       },
       {
+        "slug": "saude-mental-toxicologia-e-dependencia-quimica-2",
+        "image": "/img/course-3.jpg",
         "title": "Saúde Mental, Toxicologia e Dependência Química",
         "description:": "Ao final do curso de Pós-Graduação, o profissional se encontrará apto e capacitado a realizar atividades juntamente com equipe especializada nos âmbitos: Centros de Atenção Psicossocial Álcool e Drogas (CPSad); Unidade Básica de Saúde; Comunidades Terapêuticas; Central de Regulação (SAMU); Unidades de Acolhimento; Unidade de Pronto Atendimento (UPA); Organização e participação em campanhas de prevenção de doenças, Atendimento especializado em clínicas ou no setor público.",
         "target": "Psicólogos, assistentes sociais, terapeutas ocupacionais, fonoaudiólogos, enfermeiros e outros profissionais de saúde que atuam no tratamento de pacientes que apresentam transtornos mentais e dependência química.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Saude-Mental-Toxicologia-e-Dependencia-Quimica-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -2291,10 +2084,11 @@
         ]
       },
       {
+        "slug": "saude-publica-e-da-familia-2",
+        "image": "/img/course-3.jpg",
         "title": "Saúde Pública e da Família",
         "description:": "Ao final do curso de Pós-Graduação, o profissional se encontrará apto e capacitado a realizar as seguintes atividades: Programas de saúde e qualidade de vida; Atuação em secretarias municipais e estaduais de saúde; Gestão em PSF´s (programas de saúde da família); Organização e participação em campanhas de prevenção de doenças.",
         "target": "Profissionais graduados na área de Ciências da Saúde, tais como: médicos, enfermeiros, fisioterapeutas, nutricionistas, fonoaudiólogos, terapeutas ocupacionais, educadores físicos, psicólogos, odontólogos, farmacêuticos, biomédicos etc.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -2303,10 +2097,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Saude-Publica-e-da-Familia-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -2328,10 +2118,11 @@
         ]
       },
       {
+        "slug": "urgencia-e-emergencia-2",
+        "image": "/img/course-3.jpg",
         "title": "Urgência e Emergência",
         "description:": "O Especialista em Urgência e Emergência deverá estar apto a atender clientes em situações de urgência e emergência no âmbito hospitalar, atuando em serviços de pronto-socorro e prestando assistência ao cliente traumatizado, gerenciando serviços de urgência e emergência, além da gestão do pronto atendimento.",
         "target": "Capacitar e preparar profissionais graduados e/ou pós-graduados em enfermagem, medicina, fisioterapia e demais áreas afins a prestarem assistência a indivíduos expostos a acidentes e agravos à saúde que necessitem de cuidados em caráter de atendimento intensivo e urgência e emergência e gestão em pronto atendimento.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -2340,10 +2131,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Urgencia-e-Emergencia-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -2365,10 +2152,11 @@
         ]
       },
       {
+        "slug": "uti-geral-2",
+        "image": "/img/course-3.jpg",
         "title": "UTI Geral",
         "description:": "O Especialista em UTI Geral deverá estar apto a atuar nas dependências hospitalares destinadas ao atendimento de pacientes graves ou de risco, prestando assistência contínua, pessoal e tecnológica, relacionando-se com os demais setores hospitalares e de forma multidisciplinar.",
         "target": "Destinado a profissionais da área da saúde como: enfermeiros, médicos, odontólogos, fisioterapeutas, entre outros que desejam garantir o aperfeiçoamento profissional contínuo aos que atuam ou desejam atuar nas Unidades de Terapia Intensiva, promovendo a melhoria da assistência prestada ao paciente crítico.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -2377,10 +2165,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-UTI-Geral-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -2402,10 +2186,11 @@
         ]
       },
       {
+        "slug": "uti-neonatal-e-pediatria-2",
+        "image": "/img/course-3.jpg",
         "title": "UTI Neonatal e Pediatria",
         "description:": "O profissional estará habilitado para atuar em hospitais ou clínicas públicas ou privadas, na área de assistência de enfermagem ao recém-nascido e sua família.",
         "target": "Profissionais graduados em enfermagem e demais profissionais da área da saúde que busquem aprimoramento profissional da área de cuidados intensivos neonatal e pediátrico.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -2414,10 +2199,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-UTI-Neonatal-e-Pediatria-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
@@ -2439,10 +2220,11 @@
         ]
       },
       {
+        "slug": "vigilancia-epidemiologica-2",
+        "image": "/img/course-3.jpg",
         "title": "Vigilância Epidemiológica",
         "description:": "Ao final do curso de Pós-Graduação, o profissional se encontrará apto e capacitado a realizar as seguintes atividades: – Docência do Ensino Superior; – Organização e participação em campanhas de prevenção de doenças; – Atuar em Programas de promoção de saúde; – Atuação em secretarias municipais e estaduais de saúde; – Atuação em PSF´s (programas de saúde da família); – Atuar na Vigilância Epidemiológica Hospitalar;",
         "target": "Biomédicos, enfermeiros, farmacêuticos, fisioterapeutas, odontólogos, médicos e demais profissionais graduados na área da saúde que atuam ou pretendam atuar na área de Vigilância Sanitária.",
-        "image": "/img/course-3.jpg",
         "links": [
           {
             "text": "2 meses",
@@ -2451,10 +2233,6 @@
           {
             "text": "3 e 4 meses",
             "link": "https://institutopasso1.com.br/wp-content/uploads/2024/03/Pos-graduacao-em-Vigilancia-Epidemiologica-3-meses.pdf"
-          },
-          {
-            "text": "INSCREVER-SE",
-            "link": "https://institutopasso1.com.br/inscreva-se/"
           }
         ],
         "options": [
