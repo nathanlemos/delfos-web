@@ -136,5 +136,24 @@ const responsiveOptions = ref({
     height: 100% !important;
     object-fit: cover;
   }
+
+  .owl-carousel-item h5,
+  .owl-carousel-item p {
+    font-size: 16px !important;
+  }
+
+  .owl-carousel-item h1 {
+    font-size: 26px;
+  }
+
+  .carousel__prev,
+  .carousel__next {
+    top: 92%;
+  }
+
+  .carousel__prev {
+    right: 80px;
+    left: auto;
+  }
 }
 </style>
