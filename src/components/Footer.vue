@@ -1,6 +1,6 @@
 <template>
   <a
-    href="https://api.whatsapp.com/send?phone=55999999999&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20Varela%202."
+    href="https://api.whatsapp.com/send?phone=55999999999&text=Falar com setor específico"
     class="float"
     target="_blank"
   >

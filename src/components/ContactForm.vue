@@ -54,6 +54,39 @@
             </div>
           </div>
         </div>
+        <div class="col-lg-4 col-md-12 wow fadeInUp" data-wow-delay="0.5s">
+          <h5>&nbsp;</h5>
+          <a
+            class="whatsapp-btn"
+            href="https://api.whatsapp.com/send?phone=55999999999&text=Falar com setor específico"
+            ><div>Ainda não sou aluno</div>
+            <i class="fab fa-whatsapp"></i>
+          </a>
+          <a
+            class="whatsapp-btn"
+            href="https://api.whatsapp.com/send?phone=55999999999&text=Falar com setor específico"
+            ><div>Financeiro</div>
+            <i class="fab fa-whatsapp"></i>
+          </a>
+          <a
+            class="whatsapp-btn"
+            href="https://api.whatsapp.com/send?phone=55999999999&text=Falar com setor específico"
+            ><div>Suporte acadêmico</div>
+            <i class="fab fa-whatsapp"></i
+          ></a>
+          <a
+            class="whatsapp-btn"
+            href="https://api.whatsapp.com/send?phone=55999999999&text=Falar com setor específico"
+            ><div>Administrativo</div>
+            <i class="fab fa-whatsapp"></i
+          ></a>
+          <a
+            class="whatsapp-btn"
+            href="https://api.whatsapp.com/send?phone=55999999999&text=Falar com setor específico"
+            ><div>Dúvidas gerais</div>
+            <i class="fab fa-whatsapp"></i
+          ></a>
+        </div>
         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
           <iframe
             class="position-relative rounded w-100 h-100"
@@ -64,20 +97,6 @@
             aria-hidden="false"
             tabindex="0"
           ></iframe>
-        </div>
-        <div class="col-lg-4 col-md-12 wow fadeInUp" data-wow-delay="0.5s">
-          <a class="whatsapp-btn" href="#"
-            ><div>Financeiro</div>
-            <i class="fab fa-whatsapp"></i>
-          </a>
-          <a class="whatsapp-btn" href="#"
-            ><div>Suporte acadêmico</div>
-            <i class="fab fa-whatsapp"></i
-          ></a>
-          <a class="whatsapp-btn" href="#"
-            ><div>Administrativo</div>
-            <i class="fab fa-whatsapp"></i
-          ></a>
         </div>
       </div>
     </div>
