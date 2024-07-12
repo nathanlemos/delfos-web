@@ -22,19 +22,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -52,14 +55,16 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 560 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "560 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 560 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "560 horas"
           }
         ]
       },
@@ -81,19 +86,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -115,19 +123,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -145,14 +156,16 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 490 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "490 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 490 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "490 horas"
           }
         ]
       },
@@ -170,14 +183,16 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 490 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "490 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 490 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "490 horas"
           }
         ]
       },
@@ -199,19 +214,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -229,14 +247,16 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 490 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "490 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 490 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "490 horas"
           }
         ]
       },
@@ -254,14 +274,16 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 630 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "630 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 630 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "630 horas"
           }
         ]
       },
@@ -283,19 +305,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -317,19 +342,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -351,19 +379,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -385,19 +416,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -419,19 +453,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -449,14 +486,16 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 560 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "560 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 560 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "560 horas"
           }
         ]
       },
@@ -474,14 +513,16 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 560 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "560 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 560 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "560 horas"
           }
         ]
       },
@@ -503,19 +544,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -537,19 +581,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -567,14 +614,16 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 490 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "490 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 490 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "490 horas"
           }
         ]
       },
@@ -596,19 +645,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -630,19 +682,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -660,14 +715,16 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -689,19 +746,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -723,19 +783,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -757,19 +820,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -791,19 +857,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -825,19 +894,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -859,19 +931,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -893,19 +968,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       }
@@ -930,14 +1008,16 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -955,14 +1035,16 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 490 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "490 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 490 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "490 horas"
           }
         ]
       },
@@ -984,19 +1066,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -1014,14 +1099,16 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 560 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "560 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 560 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "560 horas"
           }
         ]
       },
@@ -1039,14 +1126,16 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 490 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "490 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 490 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "490 horas"
           }
         ]
       },
@@ -1064,14 +1153,16 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -1089,14 +1180,16 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -1114,14 +1207,16 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -1139,14 +1234,16 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 770 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "770 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 770 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "770 horas"
           }
         ]
       },
@@ -1164,14 +1261,16 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 560  horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "560  horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 560 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "560 horas"
           }
         ]
       },
@@ -1193,19 +1292,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -1227,19 +1329,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       }
@@ -1268,19 +1373,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -1298,14 +1406,16 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 560 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "560 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 560 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "560 horas"
           }
         ]
       },
@@ -1327,19 +1437,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -1361,19 +1474,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -1391,14 +1507,16 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -1416,14 +1534,16 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 560 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "560 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 560 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "560 horas"
           }
         ]
       },
@@ -1445,19 +1565,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -1479,19 +1602,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -1513,19 +1639,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -1543,14 +1672,16 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 560 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "560 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 560 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "560 horas"
           }
         ]
       },
@@ -1568,14 +1699,16 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 560 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "560 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 560horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "560horas"
           }
         ]
       },
@@ -1597,19 +1730,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       }
@@ -1638,19 +1774,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -1672,19 +1811,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -1706,19 +1848,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -1740,19 +1885,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -1770,14 +1918,16 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 560 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "560 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 560 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "560 horas"
           }
         ]
       },
@@ -1799,19 +1949,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -1833,19 +1986,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -1863,14 +2019,16 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 490 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "490 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 490 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "490 horas"
           }
         ]
       },
@@ -1888,14 +2046,16 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 560 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "560 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 560 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "560 horas"
           }
         ]
       },
@@ -1913,14 +2073,16 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 560 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "560 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 560 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "560 horas"
           }
         ]
       },
@@ -1938,14 +2100,16 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 490 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "490 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 490 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "490 horas"
           }
         ]
       },
@@ -1963,14 +2127,16 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 560 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "560 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 560 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "560 horas"
           }
         ]
       },
@@ -1988,14 +2154,16 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 560 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "560 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 560 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "560 horas"
           }
         ]
       },
@@ -2013,14 +2181,16 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 560 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "560 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 560 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "560 horas"
           }
         ]
       },
@@ -2042,19 +2212,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -2072,14 +2245,16 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 560 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "560 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 560 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "560 horas"
           }
         ]
       },
@@ -2101,19 +2276,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -2135,19 +2313,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -2169,19 +2350,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -2203,19 +2387,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       },
@@ -2237,19 +2424,22 @@
         ],
         "options": [
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 364 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "364 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           },
           {
-            "matricula": "160",
-            "parcelas": "+ 12 parcelas  de R$80,00 no  cartão de crédito",
-            "carga_horaria": "Carga horária de 420 horas"
+            "enroll_fee": "160.00",
+            "installments": "12",
+            "installments_price": "80.00",
+            "workload": "420 horas"
           }
         ]
       }
