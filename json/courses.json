@@ -22,22 +22,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -55,16 +58,18 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "560 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "560"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "560 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "560"
           }
         ]
       },
@@ -86,22 +91,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -123,22 +131,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -156,16 +167,18 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "490 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "490"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "490 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "490"
           }
         ]
       },
@@ -183,16 +196,18 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "490 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "490"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "490 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "490"
           }
         ]
       },
@@ -214,22 +229,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -247,16 +265,18 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "490 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "490"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "490 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "490"
           }
         ]
       },
@@ -274,16 +294,18 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "630 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "630"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "630 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "630"
           }
         ]
       },
@@ -305,22 +327,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -342,22 +367,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -379,22 +407,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -416,22 +447,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -453,22 +487,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -486,16 +523,18 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "560 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "560"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "560 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "560"
           }
         ]
       },
@@ -513,16 +552,18 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "560 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "560"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "560 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "560"
           }
         ]
       },
@@ -544,22 +585,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -581,22 +625,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -614,16 +661,18 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "490 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "490"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "490 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "490"
           }
         ]
       },
@@ -645,22 +694,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -682,22 +734,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -715,16 +770,18 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -746,22 +803,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -783,22 +843,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -820,22 +883,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -857,22 +923,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -894,22 +963,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -931,22 +1003,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -968,22 +1043,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       }
@@ -1008,16 +1086,18 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -1035,16 +1115,18 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "490 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "490"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "490 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "490"
           }
         ]
       },
@@ -1066,22 +1148,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -1099,16 +1184,18 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "560 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "560"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "560 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "560"
           }
         ]
       },
@@ -1126,16 +1213,18 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "490 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "490"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "490 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "490"
           }
         ]
       },
@@ -1153,16 +1242,18 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -1180,16 +1271,18 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -1207,16 +1300,18 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -1234,16 +1329,18 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "770 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "770"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "770 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "770"
           }
         ]
       },
@@ -1261,16 +1358,18 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "560  horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "560 "
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "560 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "560"
           }
         ]
       },
@@ -1292,22 +1391,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -1329,22 +1431,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       }
@@ -1373,22 +1478,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -1406,16 +1514,18 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "560 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "560"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "560 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "560"
           }
         ]
       },
@@ -1437,22 +1547,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -1474,22 +1587,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -1507,16 +1623,18 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -1534,16 +1652,18 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "560 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "560"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "560 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "560"
           }
         ]
       },
@@ -1565,22 +1685,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -1602,22 +1725,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -1639,22 +1765,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -1672,16 +1801,18 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "560 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "560"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "560 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "560"
           }
         ]
       },
@@ -1699,15 +1830,17 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "560 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "560"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
             "workload": "560horas"
           }
         ]
@@ -1730,22 +1863,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       }
@@ -1774,22 +1910,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -1811,22 +1950,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -1848,22 +1990,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -1885,22 +2030,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -1918,16 +2066,18 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "560 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "560"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "560 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "560"
           }
         ]
       },
@@ -1949,22 +2099,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -1986,22 +2139,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -2019,16 +2175,18 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "490 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "490"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "490 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "490"
           }
         ]
       },
@@ -2046,16 +2204,18 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "560 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "560"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "560 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "560"
           }
         ]
       },
@@ -2073,16 +2233,18 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "560 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "560"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "560 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "560"
           }
         ]
       },
@@ -2100,16 +2262,18 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "490 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "490"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "490 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "490"
           }
         ]
       },
@@ -2127,16 +2291,18 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "560 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "560"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "560 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "560"
           }
         ]
       },
@@ -2154,16 +2320,18 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "560 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "560"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "560 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "560"
           }
         ]
       },
@@ -2181,16 +2349,18 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "560 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "560"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "560 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "560"
           }
         ]
       },
@@ -2212,22 +2382,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -2245,16 +2418,18 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "560 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "560"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "560 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "560"
           }
         ]
       },
@@ -2276,22 +2451,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -2313,22 +2491,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -2350,22 +2531,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -2387,22 +2571,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       },
@@ -2424,22 +2611,25 @@
         ],
         "options": [
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "364 horas"
+            "enroll_period": "2 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "364"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "3 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           },
           {
-            "enroll_fee": "160.00",
-            "installments": "12",
-            "installments_price": "80.00",
-            "workload": "420 horas"
+            "enroll_period": "4 meses",
+            "enroll_fee": "160",
+            "installments": 12,
+            "installment_value": 80,
+            "workload": "420"
           }
         ]
       }
