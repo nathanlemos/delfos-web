@@ -43,14 +43,14 @@
 
     <script type="text/javascript">
       (function (l) {
-        // Verifica se a URL foi manipulada pela 404.html
+        // Verifica se a URL foi manipulada pela 404.html e precisa ser restaurada
         if (l.search.includes("~and~")) {
           // Decodifica a URL removendo o "~and~" e restaurando "&"
           var decoded = l.search
-            .slice(1) // Remove o "?"
+            .slice(1) // Remove o "?" da string de busca
             .replace(/~and~/g, "&");
 
-          // Atualiza o URL no navegador sem recarregar a página
+          // Atualiza a URL no navegador sem recarregar a página, removendo qualquer parâmetro desnecessário
           window.history.replaceState(
             null,
             null,
