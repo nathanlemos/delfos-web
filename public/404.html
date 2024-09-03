@@ -6,21 +6,25 @@
     <script type="text/javascript">
       (function () {
         var l = window.location;
-        var newUrl =
-          l.protocol +
-          "//" +
-          l.hostname +
-          (l.port ? ":" + l.port : "") +
-          "/" +
-          l.pathname.replace(/&/g, "~and~").replace(/^\//, "") +
-          l.search +
-          l.hash;
 
-        if (l.pathname !== "/") {
-          window.location.href = newUrl;
+        // Verifica se a URL já foi redirecionada antes para evitar loops
+        if (!l.search.includes("redirected=true")) {
+          var newUrl =
+            l.protocol +
+            "//" +
+            l.hostname +
+            (l.port ? ":" + l.port : "") +
+            "/" +
+            l.pathname.replace(/&/g, "~and~").replace(/^\//, "") +
+            "?redirected=true" +
+            l.hash;
+
+          window.location.replace(newUrl);
         }
       })();
     </script>
   </head>
-  <body></body>
+  <body>
+    <h1>Redirecionando...</h1>
+  </body>
 </html>
